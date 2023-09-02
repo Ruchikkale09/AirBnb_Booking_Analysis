@@ -23,16 +23,28 @@ name : Name of the listing
 host_id : host ID
 host_name : Name of the host
 neighbourhood_group : location
+
 neighbourhood : area
+
 latitude : latitude coordinates
+
 longitude : longitude coordinates
+
 room_type : listing space type
+
 price : price in dollars
+
 minimum_nights : minimum nigth to be paid for
+
 number_of_reviews : number of reviews
+
 last_review : content of last review date
-reviews_per_month : number of check per month/number of reviews per month
+
+reviews_per_month : number of check per month/number of reviews 
+per month
+
 calculated_host_listings_count : total count
+
 availability_365 : Availability around the year
 
 ### Project Implementation:
