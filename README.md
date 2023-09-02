@@ -19,9 +19,13 @@ There are 16 parameters, the parameters consists information about the AirBnb na
 Parameters are :
 
 id : Unique ID
+
 name : Name of the listing
+
 host_id : host ID
+
 host_name : Name of the host
+
 neighbourhood_group : location
 
 neighbourhood : area
